@@ -1,1 +1,2 @@
-# Adominee-s_Snippet
+競プロ用のSnippetsです。
+コードをVSC用に変換するソースもついてます。
