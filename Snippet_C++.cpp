@@ -6,8 +6,8 @@ typedef long long ll;
 typedef long double ld;
 typedef pair<ll, ll> pll;
 
-const ll LongINF=1e13+7;
-const int INF=1e9+7;
+const ll LongINF=10000000000000;
+const int INF=1000000007;
 const int dx[]={0,1,0,-1};
 const int dy[]={1,0,-1,0};
 
